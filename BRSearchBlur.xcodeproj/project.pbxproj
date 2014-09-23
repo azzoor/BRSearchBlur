@@ -14,6 +14,7 @@
 		5417F7BB19D0FDDA00AE22B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5417F7BA19D0FDDA00AE22B6 /* Images.xcassets */; };
 		5417F7BE19D0FDDA00AE22B6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5417F7BC19D0FDDA00AE22B6 /* LaunchScreen.xib */; };
 		5417F7CA19D0FDDA00AE22B6 /* BRSearchBlurTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5417F7C919D0FDDA00AE22B6 /* BRSearchBlurTests.m */; };
+		5417F7D419D0FE1800AE22B6 /* Screen Shot 2014-09-23 at 11.01.42 am.png in Resources */ = {isa = PBXBuildFile; fileRef = 5417F7D319D0FE1800AE22B6 /* Screen Shot 2014-09-23 at 11.01.42 am.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		5417F7C319D0FDDA00AE22B6 /* BRSearchBlurTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BRSearchBlurTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5417F7C819D0FDDA00AE22B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5417F7C919D0FDDA00AE22B6 /* BRSearchBlurTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BRSearchBlurTests.m; sourceTree = "<group>"; };
+		5417F7D319D0FE1800AE22B6 /* Screen Shot 2014-09-23 at 11.01.42 am.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-09-23 at 11.01.42 am.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				5417F7B219D0FDDA00AE22B6 /* AppDelegate.m */,
 				5417F7B419D0FDDA00AE22B6 /* ViewController.h */,
 				5417F7B519D0FDDA00AE22B6 /* ViewController.m */,
+				5417F7D319D0FE1800AE22B6 /* Screen Shot 2014-09-23 at 11.01.42 am.png */,
 				5417F7B719D0FDDA00AE22B6 /* Main.storyboard */,
 				5417F7BA19D0FDDA00AE22B6 /* Images.xcassets */,
 				5417F7BC19D0FDDA00AE22B6 /* LaunchScreen.xib */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5417F7B919D0FDDA00AE22B6 /* Main.storyboard in Resources */,
+				5417F7D419D0FE1800AE22B6 /* Screen Shot 2014-09-23 at 11.01.42 am.png in Resources */,
 				5417F7BE19D0FDDA00AE22B6 /* LaunchScreen.xib in Resources */,
 				5417F7BB19D0FDDA00AE22B6 /* Images.xcassets in Resources */,
 			);
